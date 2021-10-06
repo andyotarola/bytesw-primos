@@ -1,10 +1,10 @@
-# bytesw-primos
+# Primeros números primos
 
-# comandos
+## comandos
 
-Instalar las dependecias
+### Instalar las dependecias
 npm install
 
-Correr la aplicación
+### Correr la aplicación
 
 npm start
