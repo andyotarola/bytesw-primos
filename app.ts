@@ -12,6 +12,8 @@ const isPrime = (num: number): boolean => {
     return num !== 1;
 }
 
+// Primeros números primeros dependiendo del total que se desea mostrar.
+
 const firstPrimes = (total: number) => {
 
     const primes: number[] = []
